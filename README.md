@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Technologies with which I worked 
 <table><tr><td valign="top" width="33%">
 
 

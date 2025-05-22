@@ -6,7 +6,7 @@
 ### <div align="center">I'm Santi, a full-stack developer 👨‍💻 working remotely since 2021🚀</div>  
   
 
-- 🔭 I’m currently working on [bot-trading-analytics](https://github.com/andrade-fs/bot-trading-analytics)  
+- 🔭 I’m currently working on [GQLonaut](https://github.com/andrade-fs/GQLonaut)  
   
 
 - 🌱 I’m currently learning IA and Big Data  
